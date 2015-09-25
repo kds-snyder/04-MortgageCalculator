@@ -1,0 +1,6 @@
+C:\dev\04-MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.exe.config
+C:\dev\04-MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.exe
+C:\dev\04-MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.pdb
+C:\dev\04-MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.csprojResolveAssemblyReference.cache
+C:\dev\04-MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.exe
+C:\dev\04-MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.pdb
